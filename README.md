@@ -1,4 +1,4 @@
-#🙌🏼 HandsApp 🙌🏼
+🙌🏼 HandsApp 🙌🏼
 
 Name:
 -Chen Gutman & Avital Kahani
