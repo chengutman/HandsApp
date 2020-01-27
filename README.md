@@ -1,8 +1,7 @@
 # HandsApp
 
 Name:
--Chen Gutman
--Avital Kahani
+-Chen Gutman & Avital Kahani
 
 API Documents:
 -https://documenter.getpostman.com/view/7789232/SWTA9xtT
